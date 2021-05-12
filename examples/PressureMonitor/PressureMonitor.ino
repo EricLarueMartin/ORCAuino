@@ -1,5 +1,5 @@
-#include<ORCA.h>
-#include<BSP120.h>
+#include<ORCAuino.h>
+#include<BSP120.h> // https://github.com/EricLarueMartin/BSP120
 
 #include <FlashStorage.h>
 
